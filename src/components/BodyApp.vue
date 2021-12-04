@@ -29,7 +29,7 @@
 
             <!-- image -->
             <div class="w-full lg:w-1/2">
-                <img src="img/home-content.png" alt="" class="w-full">
+                <img src="../assets/img/home-content.png" alt="" class="w-full">
             </div>
         </div>
     </main>
